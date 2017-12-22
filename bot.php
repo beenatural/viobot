@@ -7,8 +7,8 @@ copyright @ medantechno.com
 
 require_once('./line_class.php');
 
-$channelAccessToken = ''; //sesuaikan 
-$channelSecret = '';//sesuaikan
+$channelAccessToken = '2ncINV9r/rzJae97jBkUpmXTZ2zrEYDEtHRXDfzxGs6W3LhbyaIQNC4R6hBWnYd2NKfQkf/rHMOWxjAFhtio9m5VJ53GDii7uouQKKNFaTQB79g6iFY0UDyl/t7w2zNhfqiJKf/Af/OKmHspEeeNtQdB04t89/1O/w1cDnyilFU='; //sesuaikan 
+$channelSecret = '57e34fa74e36aa12f61d6f05ccbba01b';//sesuaikan
 
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
 
