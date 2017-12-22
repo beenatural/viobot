@@ -1,0 +1,6 @@
+{
+  "name": "VioBot",
+  "description": "VioBot",
+  "repository": "https://github.com/beenatural/viobot",
+  "keywords": ["line bot", "messaging api"]
+}
